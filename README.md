@@ -4,6 +4,7 @@ A CRUD System built with:
 - HTML/CSS/JS (Frontend)
 - Python Flask (Backend)
 - MySQL (Database)
+- UI/UX (Designer)
 
 ## Festures
 - Create, View, Update, Delete an entity
