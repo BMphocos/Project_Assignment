@@ -2,7 +2,7 @@
 
 A CRUD System built with:
 - HTML/CSS/JS (Frontend)
-- Python Flask (Backend)
+- Python Django (Backend)
 - MySQL (Database)
 - UI/UX (Designer)
 
